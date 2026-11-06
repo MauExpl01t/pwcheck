@@ -1,5 +1,9 @@
 # PwCheck
 
+![Tests](https://github.com/MauExpl01t/pwcheck/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Auditoría de contraseñas filtradas en Python, hermana de [WebScan](../webscan)
 y [SubdomainEnum](../subdomain-enum). Revisa si una contraseña ya apareció
 en alguna filtración de datos conocida — sin que la contraseña salga nunca
