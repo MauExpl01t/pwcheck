@@ -29,6 +29,10 @@ La contraseña completa, y su hash completo, **nunca viajan por la red**.
 No se necesita API key: es un endpoint público pensado exactamente para
 este uso.
 
+## Demo
+
+![Demo de PwCheck](./assets/demo.svg)
+
 ## Instalación (Windows / PowerShell)
 
 ```powershell
