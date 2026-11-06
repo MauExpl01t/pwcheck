@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Reportes de auditoría: aunque nunca incluyen la contraseña, sí listan
+# qué usuarios tienen contraseñas filtradas. No deben subirse a un repo público.
+reporte*.html
+reporte*.json
