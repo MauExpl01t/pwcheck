@@ -4,8 +4,8 @@
 ![Python](https://img.shields.io/badge/python-3.12-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Auditoría de contraseñas filtradas en Python, hermana de [WebScan](../webscan)
-y [SubdomainEnum](../subdomain-enum). Revisa si una contraseña ya apareció
+Auditoría de contraseñas filtradas en Python, hermana de [WebScan](https://github.com/MauExpl01t/webscan)
+y [SubdomainEnum](https://github.com/MauExpl01t/subdomain-enum). Revisa si una contraseña ya apareció
 en alguna filtración de datos conocida — sin que la contraseña salga nunca
 completa de tu computador.
 
